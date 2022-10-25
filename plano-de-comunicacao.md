@@ -1,4 +1,4 @@
-# !Plano de comunicação
+# Plano de comunicação
 
 | # | Objetivos | Público Alvo | Canal/Evento | Frequência| Responsabilidades | Materiais Relacionados
 |--|--|--|--|--|--|--|
